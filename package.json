@@ -3,7 +3,9 @@
     "start": "nodemon fileGetter.js"
   },
   "dependencies": {
+    "body-parser": "^1.20.2",
     "express": "^4.18.2",
+    "jquery": "^3.6.4",
     "nodemon": "^2.0.22",
     "superagent": "^8.0.9"
   }
